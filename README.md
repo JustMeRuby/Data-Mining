@@ -1,1 +1,1 @@
-Homework of "Data Mining" course.
+Assignments of "Data Mining" course.
